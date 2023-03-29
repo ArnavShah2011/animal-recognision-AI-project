@@ -1,0 +1,29 @@
+body
+{
+  background-color: aqua;
+}
+
+.header_div
+  {
+  background: #95A3A4;
+  color: white; 
+  }
+
+  .header_div p{
+    letter-spacing: 2px;
+    font-size: 12px;
+  }
+  .main_div button{
+    margin-top: 30px;
+    width: 130px;
+    letter-spacing: 3px;
+  }
+    .copy_right_footer{
+      position:fixed;
+      color:aquamarine;
+      bottom:0;
+      width: 100%;
+      background-color: black;
+      line-height:3;
+      text-align:center;
+  }
